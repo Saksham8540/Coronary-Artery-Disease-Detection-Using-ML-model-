@@ -159,8 +159,8 @@ if uploaded_file is not None:
 # Footer
 st.markdown("""
     <div class='footer'>
-    Developed by <b>TEAM-NO 122 </b> | Minor Project | DSU | CSE Core | 6th Semester <br>
-    📎 <a href="https://github.com/" style="color:#90e0ef;">GitHub</a> | 
-    <a href="https://linkedin.com/" style="color:#90e0ef;">LinkedIn</a>
+    Developed by <b>SAKSHAM BANSAL</b> | Minor Project | DSU | CSE Core | 6th Semester <br>
+    📎 <a href="https://github.com/Saksham8540" style="color:#90e0ef;">GitHub</a> | 
+    <a href="https://linkedin.com/Saksham-bansal8540" style="color:#90e0ef;">LinkedIn</a>
     </div>
 """, unsafe_allow_html=True)
